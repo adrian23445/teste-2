@@ -1,0 +1,27 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightpink;
+    text-align: center;
+}
+
+.container {
+    margin-top: 100px;
+}
+
+.titulo {
+    color: hotpink;
+    font-size: 3rem;
+}
+
+.botao {
+    background-color: pink;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer; 
+}
